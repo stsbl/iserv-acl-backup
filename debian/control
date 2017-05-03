@@ -1,0 +1,13 @@
+Source: stsbl-iserv-acl-backup
+Section: misc
+Priority: extra
+Maintainer: Stadtteilschule Blankenese <repository@stsbl.de>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+#Vcs-Git: git://anonscm.debian.org/collab-maint/stsbl-iserv-acl-backup.git
+#Vcs-Browser: http://anonscm.debian.org/?p=collab-maint/stsbl-iserv-acl-backup.git;a=summary
+
+Package: stsbl-iserv-acl-backup
+Architecture: all
+Description: ACL-Backup für IServ
+ Sichert die Dateisystem-ACL einmal täglich auf dem Server als Archiv nach /var/backups/acl.
