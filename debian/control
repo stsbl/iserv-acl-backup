@@ -10,4 +10,5 @@ Standards-Version: 3.9.5
 Package: stsbl-iserv-acl-backup
 Architecture: all
 Description: ACL-Backup für IServ
- Sichert die Dateisystem-ACL einmal täglich auf dem Server als Archiv nach /var/backups/acl.
+ Sichert die Dateisystem-ACLs einmal täglich auf dem Server als Archiv nach 
+ /var/backups/acl.
