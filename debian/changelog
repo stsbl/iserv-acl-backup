@@ -1,3 +1,14 @@
+stsbl-iserv-acl-backup (17.11.01-1) experimental; urgency=medium
+
+  * Updated copyright.
+  * Updated build deps and rules.
+  * Fixed build deps.
+  * Changed source format to native
+  * Removed old install file
+  * Updated rules file
+
+ -- Felix Jacobi <felix.jacobi@stsbl.de>  Wed, 01 Nov 2017 22:43:06 +0100
+
 stsbl-iserv-acl-backup (17.05.03-0) unstable; urgency=low
 
   * Initial Release.
